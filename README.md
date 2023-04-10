@@ -1,3 +1,3 @@
 # Models
-ML and deep learning models
-&nbspLinear Regression
+ML and deep learning models <br />
+&nbsp;&nbsp;&nbsp;&nbsp;Linear Regression
